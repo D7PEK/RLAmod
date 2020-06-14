@@ -1,0 +1,6 @@
+v0.0.2 [ Перевод мода Angel's Infinite Ores 0.9.3 ]
+- Перевод water-treatment.cfg (Refining)
+- Перевод names.cfg (Infinite Ores)
+
+v0.0.1 [ Перевод мода Angel's Refining 0.11.14 ]
+- Перевод ore-refining.cfg
