@@ -1,0 +1,14 @@
+{
+  "name": "RLAmod",
+  "version": "0.0.1",
+  "title": "Russian locale for Angels mod",
+  "author": "D7PEK",
+  "contact": "https://t.me/d7pek",
+  "homepage": "https://github.com/D7PEK/Russian-locale-for-Angels-mod",
+  "factorio_version": "0.17",
+  "description": "Перевод модов от Arch666Angel",
+  "dependencies": ["base >= 0.17.0",
+
+    "? angelsrefining >= 0.10.14"
+	]
+}

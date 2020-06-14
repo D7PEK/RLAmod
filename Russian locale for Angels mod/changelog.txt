@@ -1,0 +1,3 @@
+
+v0.0.1 [ Перевод мода Angel's Refining ]
+- Перевод ore-refining.cfg
