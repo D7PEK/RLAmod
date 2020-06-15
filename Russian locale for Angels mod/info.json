@@ -11,10 +11,12 @@
 
     "? angelsrefining >= 0.10.14",
     "? angelsinfiniteores >= 0.8.12",
+    "? angelspetrochem >= 0.8.6",
     "? angelsaddons-warehouses >= 0.4.1",
     "? angelsaddons-oresilos >= 0.5.1",
     "? angelsaddons-pressuretanks >= 0.4.1",
     "? angelsaddons-petrotrain >= 0.4.0",
-    "? angelsaddons-smeltingtrain >= 0.2.0"    
+    "? angelsaddons-smeltingtrain >= 0.2.0",
+    "? angelsaddons-cab >= 0.1.5"    
 	]
 }
