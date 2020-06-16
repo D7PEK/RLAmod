@@ -1,20 +1,36 @@
-v0.0.4 [ Перевод мода Angel's Petro Chemical Processing 0.9.11]
-- поддержка C.A.B (не Перевод)
-- Перевод petrochem.cfg (Petro Chemical Processing)
-
-Пояснение: Данный Перевод я делаю для себя если вам нравится другой перевод то используйте его.
-А если вам не нравится как я перевёл то делайте форк на гитхабе исправьте и сделайте пулреквест спасибо. (либо сделайте тему в разделе Discussion.)
 ---------------------------------------------------------------------------------------------------
-v0.0.3 [ Перевод аддонов Angel's Add-ons ]
-- Перевод Warehouses.cfg (Warehouses)
-- Перевод ore-silos.cfg (Ore Silos)
-- Перевод pressure-tanks.cfg (Pressure Tanks)
-- Перевод petrotrain.cfg (Petrochem Train)
-- Перевод smeltingtrain.cfg (Smelting Train)
+Version: 0.0.5
+Date: 16. 06. 2020
+  Changes:
+    - Перевод smelting.cfg (Angel's Smelting)
+  Info:
+    - Обновил описание мода
 ---------------------------------------------------------------------------------------------------
-v0.0.2 [ Перевод мода Angel's Infinite Ores 0.9.3 ]
-- Перевод water-treatment.cfg (Refining)
-- Перевод names.cfg (Infinite Ores)
+Version: 0.0.4
+Date: 15. 06. 2020
+  Changes:
+     - поддержка C.A.B (не Перевод)
+     - Перевод petrochem.cfg (Petro Chemical Processing)
+  Info:
+    - Пояснение: Данный Перевод я делаю для себя если вам нравится другой перевод то используйте его.
+    - А если вам не нравится как я перевёл то делайте форк на гитхабе исправьте и сделайте пулреквест спасибо. (либо сделайте тему в разделе Discussion.)
 ---------------------------------------------------------------------------------------------------
-v0.0.1 [ Перевод мода Angel's Refining 0.11.14 ]
-- Перевод ore-refining.cfg
+Version: 0.0.3
+Date: 15. 06. 2020
+  Changes:
+    - Перевод Warehouses.cfg (Warehouses)
+    - Перевод ore-silos.cfg (Ore Silos)
+    - Перевод pressure-tanks.cfg (Pressure Tanks)
+    - Перевод petrotrain.cfg (Petrochem Train)
+    - Перевод smeltingtrain.cfg (Smelting Train)
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 14. 06. 2020
+  Changes:
+    - Перевод water-treatment.cfg (Refining)
+    - Перевод names.cfg (Infinite Ores)
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 14. 06. 2020
+  Changes:
+    - Перевод ore-refining.cfg
