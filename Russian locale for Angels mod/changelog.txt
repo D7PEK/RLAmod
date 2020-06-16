@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.6.0
+Date: 17. 06. 2020
+  Fix:
+    - Перевод components.cfg (Angel's Industries)
+    - Перевод science.cfg (Angel's Industries)
+    - Перевод nuclear-power.cfg (Angel's Industries)
+    - Перевод logistic.cfg (Angel's Industries)
+    - Перевод cab.cfg (Angel's Addons - C.A.B.)
+---------------------------------------------------------------------------------------------------
 Version: 0.5.1
 Date: 16. 06. 2020
   Fix:

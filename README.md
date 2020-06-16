@@ -11,12 +11,12 @@
 Так же есть мультиязычная альтернатива моему переводу [Angel's Addons - Locales](https://mods.factorio.com/mod/angelsaddons-newlocales) но там не самые новые версии и перевод неполный и неточный например Smelting. 
 
 #### Пока что я перебираю старый перевод и готово только:
-#
-#
+
 
 | Мод | Версия |
 | ------- | ---- |
 | [Angel's Refining ](https://mods.factorio.com/mod/angelsrefining) | 0.11.14 |
+| [Angel's Industries ](https://mods.factorio.com/mod/angelsindustries) | 0.4.3 |
 | [Angel's Petro Chemical Processing](https://mods.factorio.com/mod/angelspetrochem/downloads) | 0.9.11 |
 | [Angel's Smelting](https://mods.factorio.com/mod/angelssmelting) | 0.6.8 |
 | [Angel's Infinite Ores](https://mods.factorio.com/mod/angelsinfiniteores) | 0.9.3 |
@@ -29,6 +29,15 @@
 |[Pressure Tanks](https://mods.factorio.com/mod/angelsaddons-pressuretanks)|	0.5.1|
 |[Petrochem Train](https://mods.factorio.com/mod/angelsaddons-petrotrain)| 0.5.8|
 |[Smelting Train](https://mods.factorio.com/mod/angelsaddons-smeltingtrain)| 0.3.7|
+|[C.A.B.](https://mods.factorio.com/mod/angelsaddons-cab)| 0.2.2|
+
+
+#### Ожидают перевода 
+* Angel's Addons - Crawler Train
+* Angel's Addons - Decorations - Nilaus
+* Angel's Addons - Decorations - ShredNation
+* Angel's Bio Processing [BETA]
+* Angel's Exploration (BETA)
 
 
 #### Ожидают перевода 
