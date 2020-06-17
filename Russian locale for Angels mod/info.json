@@ -1,6 +1,6 @@
 {
   "name": "RLAmod",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Russian locale for Angel's mod",
   "author": "D7PEK",
   "contact": "https://t.me/d7pek",
@@ -10,7 +10,7 @@
   "dependencies": ["base >= 0.17.0",
 
     "? angelsinfiniteores >= 0.9.3",
-    "? angelsrefining >= 0.11.14",
+    "? angelsrefining >= 0.11.13",
     "? angelssmelting >= 0.6.8",
     "? angelspetrochem >= 0.9.11",
     "? angelsindustries >= 0.4.3",
@@ -19,8 +19,8 @@
 
     "? angelsaddons-warehouses >= 0.5.1",
     "? angelsaddons-oresilos >= 0.6.1",
-    "? angelsaddons-pressuretanks >= 0.6.1",
-    "? angelsaddons-petrotrain >= 0.5.1",
+    "? angelsaddons-pressuretanks >= 0.5.1",
+    "? angelsaddons-petrotrain >= 0.5.8",
     "? angelsaddons-smeltingtrain >= 0.3.7",
     "? angelsaddons-cab >= 0.2.2",
     "? angelsaddons-crawlertrain >= 0.1.4",
