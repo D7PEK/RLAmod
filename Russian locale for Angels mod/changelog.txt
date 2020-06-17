@@ -1,7 +1,17 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.7.0
+Date: 17. 06. 2020
+  Changes:
+    - Перевод bio-processing.cfg (Angel's Bio Processing)
+    - Перевод decorations-nilaus.cfg (Angel's Addons - Decorations - Nilaus)
+    - Перевод TP-nilaus.cfg (Angel's Addons - Decorations - Nilaus)
+    - Перевод decorations-shred.cfg (Angel's Addons - Decorations - ShredNation)
+  Fix:
+    - Правки в переводе petrochem.cfg (Petro Chemical Processing)
+---------------------------------------------------------------------------------------------------
 Version: 0.6.0
 Date: 17. 06. 2020
-  Fix:
+  Changes:
     - Перевод components.cfg (Angel's Industries)
     - Перевод science.cfg (Angel's Industries)
     - Перевод nuclear-power.cfg (Angel's Industries)
