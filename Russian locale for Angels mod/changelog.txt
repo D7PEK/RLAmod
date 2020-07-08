@@ -1,7 +1,10 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
-Date: 22.06.2020
+Date: 08.07.2020
   Changes:
+    - Перевод ShinyAngelGFX
+    - Добавление перевода для Angel's Refining
+    - Исправление и добавление перевода для Angel's Industries
     - Исправление и добавление перевода для Petrochem Train
     - Исправление и добавление перевода для Petro Chemical Processing
   Info:
@@ -89,4 +92,4 @@ Date: 14.06.2020
 Version: 0.0.1
 Date: 14.06.2020
   Changes:
-    - Перевод ore-refining.cfg
+    - Перевод ore-refining.cfg (Angel's Refining)
