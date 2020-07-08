@@ -1,6 +1,6 @@
 {
   "name": "RLAmod",
-  "version": "0.7.2",
+  "version": "0.8.0",
   "title": "Russian locale for Angel's mod",
   "author": "D7PEK",
   "contact": "https://t.me/d7pek",
@@ -22,6 +22,9 @@
     "? angelsaddons-smeltingtrain >= 0.2.0",
     "? angelsaddons-cab >= 0.1.5",
     "? angelsaddons-nilaus >= 0.2.1",
-    "? angelsaddons-shred >= 0.1.4"   
+    "? angelsaddons-shred >= 0.1.4",
+    
+    
+    "? ShinyAngelGFX >= 0.17.1"
 	]
 }
