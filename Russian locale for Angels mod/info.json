@@ -1,6 +1,6 @@
 {
   "name": "RLAmod",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "title": "Russian locale for Angel's mod",
   "author": "D7PEK",
   "contact": "https://t.me/d7pek",
@@ -16,16 +16,11 @@
     "? angelsindustries >= 0.4.3",
     "? angelsbioprocessing >= 0.7.11",
     "? angelsexploration >= 0.3.5",
-
-    "? angelsaddons-warehouses >= 0.5.1",
-    "? angelsaddons-oresilos >= 0.6.1",
-    "? angelsaddons-pressuretanks >= 0.5.1",
-    "? angelsaddons-petrotrain >= 0.5.8",
-    "? angelsaddons-smeltingtrain >= 0.3.7",
     "? angelsaddons-cab >= 0.2.2",
-    "? angelsaddons-crawlertrain >= 0.1.4",
     "? angelsaddons-nilaus >= 0.3.9",
     "? angelsaddons-shred >= 0.2.2",
+    "? angelsaddons-storage >= 0.0.1",
+    "? angelsaddons-mobility >= 0.0.1",
 
     "? ShinyAngelGFX >= 0.18.4"
 	]
