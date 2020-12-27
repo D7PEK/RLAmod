@@ -1,11 +1,11 @@
 {
   "name": "RLAmod",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "title": "Russian locale for Angel's mod",
   "author": "D7PEK",
   "contact": "https://t.me/d7pek",
   "homepage": "https://github.com/D7PEK/Russian-locale-for-Angels-mod",
-  "factorio_version": "1.0",
+  "factorio_version": "1.1",
   "description": "ПОЛНЫЙ Перевод модов от Arch666Angel  \n\nAngel's Refining \nAngel's Smelting \nAngel's Industries \nAngel's Petro Chemical Processing \nAngel's Bio Processing \nAngel's Exploration \nAngel's Infinite Ores  \n \nWarehouses \nOre Silos \nPressure Tanks \nPetrochem Train \nSmelting Train \nAngel's Addons - Crawler Train \nDecorations - Nilaus \nDecorations - ShredNation",
   "dependencies": ["base >= 1.0.0",
 
